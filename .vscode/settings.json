@@ -1,0 +1,5 @@
+{
+    "breadcrumbs.showPackages": true,
+    "outline.showPackages": true,
+    "npm.packageManager": "npm"
+}
