@@ -1,5 +1,21 @@
 {
     "name": "Lucas Henrique",
     "job": "Studant",
-    "github": "Lukovsk"
+    "github": "Lukovsk",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Alguma coisa",
+                "url": "url",
+                "thumb": "img link"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Alguma coisa",
+                "url": "url",
+                "thumb": "img link"
+            }
+        ]
+    }
 }
